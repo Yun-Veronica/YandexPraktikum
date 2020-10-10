@@ -33,7 +33,7 @@ url = 'https://wttr.in'  # не изменяйте значение URL
 weather_parameters = {
     '0': '',
     'T': '',
-    'M': 'm/s',
+    'M': '',
     'lang': 'ru'
 }
 
